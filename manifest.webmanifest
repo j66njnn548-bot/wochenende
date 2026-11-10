@@ -1,0 +1,25 @@
+{
+ "name": "Wochenende · Familie Dresden",
+ "short_name": "Wochenende",
+ "lang": "de",
+ "start_url": "./",
+ "scope": "./",
+ "id": "./",
+ "display": "browser",
+ "background_color": "#F5F0E8",
+ "theme_color": "#F5F0E8",
+ "icons": [
+  {
+   "src": "assets/app-icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "assets/app-icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
